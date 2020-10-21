@@ -33,14 +33,14 @@ Treehouse’s 7 hour React course
 https://teamtreehouse.com/tracks/learn-react
 Note: Treehouse offers a 7-day free trial
 
-- [x] React Basics
-- [x] React Components
-- [x] Using Create React App
-- [x] React Context API
-- [x] React Router 4 Basics
-- [x] What is new in React 16
-- [x] Data Fetching in React
-- [x] Deploy a React App
+- [ ] React Basics
+- [ ] React Components
+- [ ] Using Create React App
+- [ ] React Context API
+- [ ] React Router 4 Basics
+- [ ] What is new in React 16
+- [ ] Data Fetching in React
+- [ ] Deploy a React App
 
 Week 1 Weekend Project: [Mini Netflix](https://scotch.io/tutorials/build-a-mini-netflix-with-react-in-10-minutes)
 
@@ -51,21 +51,21 @@ Final Project: [Design Flix](http://designflix.herokuapp.com)
 Free Code Camp React Course
 https://learn.freecodecamp.org/front-end-libraries/react/
 
-- [x] Create a Simple JSX Element
-- [x] Create a Complex JSX Element
-- [x] Add Comments in JSX
-- [x] Render HTML Elements to the DOM
-- [x] Define an HTML Class in JSX
-- [x] Learn About Self-Closing JSX Tags
-- [x] Create a Stateless Functional Component
-- [x] Create a React Component
-- [x] Create a Component with Composition
-- [x] Use React to Render Nested Components
-- [x] Compose React Components
-- [x] Render a Class Component to the DOM
-- [x] Write a React Component from Scratch
-- [x] Pass Props to a Stateless Functional Component
-- [x] Pass an Array as Props
+- [ ] Create a Simple JSX Element
+- [ ] Create a Complex JSX Element
+- [ ] Add Comments in JSX
+- [ ] Render HTML Elements to the DOM
+- [ ] Define an HTML Class in JSX
+- [ ] Learn About Self-Closing JSX Tags
+- [ ] Create a Stateless Functional Component
+- [ ] Create a React Component
+- [ ] Create a Component with Composition
+- [ ] Use React to Render Nested Components
+- [ ] Compose React Components
+- [ ] Render a Class Component to the DOM
+- [ ] Write a React Component from Scratch
+- [ ] Pass Props to a Stateless Functional Component
+- [ ] Pass an Array as Props
 
 Week 2 Weekend Project: (React To-Do App with React Hooks)[https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components]
 
@@ -74,21 +74,21 @@ Week 2 Weekend Project: (React To-Do App with React Hooks)[https://scotch.io/tut
 Free Code Camp React Course
 https://learn.freecodecamp.org/front-end-libraries/react/
 
-- [x] Use Default Props
-- [x] Override Default Props
-- [x] Use PropTypes to Define the Props You Expect
-- [x] Access Props Using this.props
-- [x] Review Using Props with Stateless Functional Components
-- [x] Create a Stateful Component
-- [x] Render State in the User Interface
-- [x] Render State in the User Interface Another Way
-- [x] Set State with this.setState
-- [x] Bind 'this' to a Class Method
-- [x] Use State to Toggle an Element
-- [x] Write a Simple Counter
-- [x] Create a Controlled Input
-- [x] Create a Controlled Form
-- [x] Pass State as Props to Child Components
+- [ ] Use Default Props
+- [ ] Override Default Props
+- [ ] Use PropTypes to Define the Props You Expect
+- [ ] Access Props Using this.props
+- [ ] Review Using Props with Stateless Functional Components
+- [ ] Create a Stateful Component
+- [ ] Render State in the User Interface
+- [ ] Render State in the User Interface Another Way
+- [ ] Set State with this.setState
+- [ ] Bind 'this' to a Class Method
+- [ ] Use State to Toggle an Element
+- [ ] Write a Simple Counter
+- [ ] Create a Controlled Input
+- [ ] Create a Controlled Form
+- [ ] Pass State as Props to Child Components
 
 Week 3 Weekend Project: [Q&A (Questions & Answers) app that relies on a backend API](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
 
